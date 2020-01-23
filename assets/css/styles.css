@@ -1,0 +1,77 @@
+#fotoPerfil {
+  border: none;
+  margin-top: 10% !important;
+}
+
+#perfil {
+  border: 3px solid white;
+}
+
+#expProf {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#armco {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#result {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#resultCloud {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#projetosDes {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#rickzera {
+  border-bottom: 3px solid white;
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+}
+
+#pizzaSystem {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#situacaoEscolar {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#informacoes {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#info {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+#linguagens {
+  border-bottom: 3px solid white;
+}
+
+#tools {
+  border-bottom: 3px solid white;
+}
+
