@@ -88,3 +88,15 @@
   margin-bottom: 0;
 }
 
+#nome {
+  border-top: none;
+  border-left: 3px solid white;
+  width: inherit;
+  border-right: 3px solid white;
+}
+
+#unifesp {
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+}
+
